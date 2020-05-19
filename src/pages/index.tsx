@@ -2,6 +2,7 @@
 export default function Index({ allPostsData }) {
   return (
     <div>
+      <h1>OK</h1>
       {JSON.stringify(allPostsData)}
     </div>
   );
